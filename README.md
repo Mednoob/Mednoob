@@ -6,8 +6,10 @@ Back-end Languages I usually use for coding:
 
 - C# : 36%
 
-- Javascript : 63%
+- Javascript : 61%
 
 - Python : 1%
+
+- Typescript : 2%
 
 Learning other language in process...
