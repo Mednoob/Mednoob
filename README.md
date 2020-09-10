@@ -13,3 +13,11 @@ Back-end Languages I usually use for coding:
 - Typescript : 2%
 
 Learning other language in process...
+
+
+Currently working at:
+
+- [Zhycorp](https://zhycorp.xyz/) as a Moderator
+- [Xyse Bot List](https://xysebotlist.ga/) as a Co-Founder
+- [Client Developer](https://clientdev.glitch.me/) as an Administrator
+- [Secret Development](https://secretdev.tech) as a Moderator
