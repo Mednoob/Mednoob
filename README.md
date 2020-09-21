@@ -20,4 +20,5 @@ Currently working at:
 - [Secret Development](https://www.secretdev.tech) as a Moderator
 
 My Github Stats:
+
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Mednoob&show_icons=true&theme=dark)](https://github.com/Mednoob)
