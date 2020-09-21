@@ -22,5 +22,3 @@ Currently working at:
 My Github Stats:
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Mednoob&show_icons=true&theme=dark)](https://github.com/Mednoob)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mednoob&layout=compact&theme=dark)](https://github.com/Mednoob)
