@@ -4,11 +4,12 @@ My name is Ahmad Yaqdhan. I live in Indonesia. I'm a Full-Stack(Back-end and Fro
 
 Back-end Languages I **ever** use for coding:
 
-- Javascript : 59%
+- Javascript : 57%
 - C# : 36%
 - Python : 1%
 - Typescript : 2%
 - Lua : 2%
+- Java : 2%
 
 Learning other language in process...
 
