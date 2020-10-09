@@ -19,7 +19,7 @@ Currently working at:
 - [Zhycorp](https://zhycorp.xyz/) as a Moderator [![Zhycorp Embed](https://discordapp.com/api/guilds/332877090003091456/embed.png)](https://zhycorp.xyz/discord)
 - [Xyse Bot List](https://xysebotlist.ga/) as a Co-Founder [![Xyse Bot List Embed](https://discordapp.com/api/guilds/750230780516499537/embed.png)](https://xysebotlist.my.id)
 - [Client Developer](https://clientdev.glitch.me/) as an Administrator [![Client Developer Embed](https://discordapp.com/api/guilds/703245245315416184/embed.png)](https://clidev.my.id/discord)
-- [Secret Development](https://www.secretdev.tech) as a Moderator [![Secret Development Embed](https://discordapp.com/api/guilds/733684454027034685/embed.png)](https://)
+- [Secret Development](https://www.secretdev.tech) as a Moderator [![Secret Development Embed](https://discordapp.com/api/guilds/733684454027034685/embed.png)](https://www.secretdev.tech)
 
 My Github Stats:
 
