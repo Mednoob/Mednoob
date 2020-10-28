@@ -17,7 +17,7 @@ Learning other language in process...
 Currently working at:
 
 - [Zhycorp](https://zhycorp.xyz/) as a Moderator [![Zhycorp Embed](https://discordapp.com/api/guilds/332877090003091456/embed.png)](https://zhycorp.xyz/discord)
-- [Client Developer](https://clientdev.glitch.me/) as an Administrator [![Client Developer Embed](https://discordapp.com/api/guilds/703245245315416184/embed.png)](https://clidev.my.id/discord)
+- [Not A 開発者](https://notadev.xyz/) as an Administrator [![Not A 開発者 Embed](https://discordapp.com/api/guilds/703245245315416184/embed.png)](https://clidev.my.id/discord)
 - [Secret Development](https://www.secretdev.tech) as a Moderator [![Secret Development Embed](https://discordapp.com/api/guilds/733684454027034685/embed.png)](https://www.secretdev.tech)
 
 My Github Stats:
