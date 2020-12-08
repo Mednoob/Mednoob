@@ -18,7 +18,6 @@ Currently working at:
 
 - [Zhycorp](https://zhycorp.xyz/) as a Moderator [![Zhycorp Embed](https://discordapp.com/api/guilds/332877090003091456/embed.png)](https://zhycorp.xyz/discord)
 - [Not A 開発者](https://notadev.xyz/) as an Administrator [![Not A 開発者 Embed](https://discordapp.com/api/guilds/703245245315416184/embed.png)](https://clidev.my.id/discord)
-- [♛ᴘʟᴀʏ ɢʀᴏᴜɴᴅ♛](https://playground-discord.glitch.me) as an Administrator [![♛ᴘʟᴀʏ ɢʀᴏᴜɴᴅ♛ Embed](https://discordapp.com/api/guilds/606845228833308672/embed.png)](https://playground-discord.glitch.me/discord)
 
 My Github Stats:
 
