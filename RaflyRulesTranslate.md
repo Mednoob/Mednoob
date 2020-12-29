@@ -7,7 +7,7 @@ If there are rules that have not been listed, as well as mistakes or gap in thes
 ### General
 - Things related to racism or being racist are not allowed
 - Offensive things or things related to threat are not allowed
-- Usage of badwords as well as words related to sexual are not allowed
+- Usage of badwords or being toxic as well as words related to sexual are not allowed
 - It is prohibited to abuse server security gap and all its aspects
 ### Chatting
 - It is not allowed to do spam in any form.
