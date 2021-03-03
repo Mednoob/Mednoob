@@ -2,13 +2,7 @@
 
 My name is Ahmad Yaqdhan. I live in Indonesia. I'm a Full-Stack(Back-end and Front-end) Developer.
 
-Back-end Languages I **ever** use for coding:
-
-- Javascript and Typescript : 59%
-- C# : 36%
-- Python : 1%
-- Lua : 2%
-- Java : 2%
+Back-end Languages I **ever** use for coding: Javascript, Typescript, Java, Python, Lua, C#, and Coffeescript.
 
 Learning other language in process...
 
@@ -21,6 +15,8 @@ Currently working at:
 My Github Stats:
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Mednoob&show_icons=true&theme=dark)](https://github.com/Mednoob)
+<br>
+![Metrics](https://metrics.lecoq.io/Mednoob?template=classic&introduction=1&introduction.title=true&config.timezone=Asia%2FJayapura)
 
 Most-Used Languages on my Github:
 
