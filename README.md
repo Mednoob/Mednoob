@@ -21,3 +21,7 @@ My Github Stats:
 Most-Used Languages on my Github:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mednoob&layout=compact&theme=dark)](https://github.com/Mednoob)
+
+Wakatime:
+
+[![WakaStats](https://github-readme-stats.vercel.app/api/wakatime?username=Mednoob&layout=compact)](https://wakatime.com/@Mednoob)
