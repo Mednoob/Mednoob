@@ -9,8 +9,8 @@ Learning other language in process...
 
 Currently working at:
 
-- [Zhycorp](https://zhycorp.com/) as a Moderator [![Zhycorp Embed](https://discordapp.com/api/guilds/332877090003091456/embed.png)](https://zhycorp.com/discord)
-- [Not A 開発者](https://notadev.xyz/) as an Administrator [![Not A 開発者 Embed](https://discordapp.com/api/guilds/703245245315416184/embed.png)](https://clidev.my.id/discord)
+- [Zhycorp](https://zhycorp.com/) as a Developer [![Zhycorp Embed](https://discordapp.com/api/guilds/332877090003091456/embed.png)](https://zhycorp.com/discord)
+- [DisCoder](https://dis-coder.tech/) as an Administrator [![DisCoder Embed](https://discordapp.com/api/guilds/826003509257961492/embed.png)](https://dis-coder.tech/discord)
 
 My Github Stats:
 
