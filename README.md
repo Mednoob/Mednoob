@@ -10,7 +10,6 @@ Learning other language in process...
 Currently working at:
 
 - [Zhycorp](https://zhycorp.com/) as a Developer [![Zhycorp Embed](https://discordapp.com/api/guilds/332877090003091456/embed.png)](https://zhycorp.com/discord)
-- [DisCoder](https://dis-coder.tech/) as an Administrator [![DisCoder Embed](https://discordapp.com/api/guilds/826003509257961492/embed.png)](https://dis-coder.tech/discord)
 
 My Github Stats:
 
