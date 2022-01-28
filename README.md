@@ -3,8 +3,8 @@
 ### About me
 My name is Ahmad Yaqdhan.
 
-- Full-stack developer (React, Tailwind/Windi/Bootstrap)
-- Discord bot developer (JS, TS)
+- React user (with Tailwind)
+- Discord bot developer (NodeJS, Deno)
 
 ### Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Mednoob&show_icons=true&theme=dark)](https://github.com/Mednoob)
