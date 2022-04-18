@@ -25,4 +25,4 @@ My name is Ahmad Yaqdhan. I'm 15 years old.
 [![GH Stats](https://github-readme-stats.vercel.app/api?username=Mednoob&show_icons=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/Mednoob)
 
 #### WakaTime (reload if the image failed to load)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mednoob&layout=compact)](https://wakatime.com/@Mednoob)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mednoob&layout=compact&hide=other,ejs,markdown,git%20config,git,jsx,yaml,json&langs_count=15&custom_title=Mednoob%20Stats)](https://wakatime.com/@Mednoob)
