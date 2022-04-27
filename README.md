@@ -21,8 +21,20 @@ My name is Ahmad Yaqdhan. I'm 15 years old.
   <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /></a>
 </div>
 
-#### GitHub
-[![GH Stats](https://github-readme-stats.vercel.app/api?username=Mednoob&show_icons=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/Mednoob)
 
-#### WakaTime (reload if the image failed to load)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mednoob&layout=compact&hide=other,ejs,markdown,git%20config,git,jsx,yaml,json&langs_count=15&custom_title=Mednoob%20Stats)](https://wakatime.com/@Mednoob)
+### Stats
+<details>
+  <summary>CodeWars</summary>
+  <a href="https://www.codewars.com/users/Mednoob"><img src="https://www.codewars.com/users/Mednoob/badges/large" alt="CodeWars Stats"/></a>
+</details>
+
+<details>
+  <summary>GitHub</summary>
+  <a href="https://github.com/Mednoob"><img src="https://github-readme-stats.vercel.app/api?username=Mednoob&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats"/></a>
+</details>
+
+<details>
+  <summary>WakaTime</summary>
+  <p>(reload if the image failed to load)</p>
+  <a href="https://wakatime.com/@Mednoob"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mednoob&layout=compact&hide=other,ejs,markdown,git%20config,git,jsx,yaml,json&langs_count=15&custom_title=Mednoob%20Stats" alt="WakaTime Stats"/></a>
+</details>
