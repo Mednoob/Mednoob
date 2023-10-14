@@ -25,8 +25,9 @@ My name is Ahmad Yaqdhan. I'm 17 years old.
 
 ### Stats
 <details>
-  <summary>CodeWars</summary>
-  <a href="https://www.codewars.com/users/Mednoob"><img src="https://www.codewars.com/users/Mednoob/badges/large" alt="CodeWars Stats"/></a>
+  <summary>Codewars</summary>
+  <a href="https://www.codewars.com/users/Mednoob"><img src="https://www.codewars.com/users/Mednoob/badges/large" alt="Codewars Stats"/></a><br>
+  <a href="https://www.codewars.com/users/Mednoob"><img src="https://github.r2v.ch/codewars?user=Mednoob&top_languages=true" alt="More Codewars Stats"/></a>
 </details>
 
 <details>
