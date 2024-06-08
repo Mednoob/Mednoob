@@ -34,6 +34,3 @@ My name is Ahmad Yaqdhan. I'm 18 years old.
   <summary>GitHub</summary>
   <a href="https://github.com/Mednoob"><img src="https://github-readme-stats.vercel.app/api?username=Mednoob&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats"/></a>
 </details>
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Mednoob/Mednoob/blob/master/arisbm.gif?raw=true');]{x0000}$}
