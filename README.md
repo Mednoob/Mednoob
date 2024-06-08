@@ -34,3 +34,6 @@ My name is Ahmad Yaqdhan. I'm 18 years old.
   <summary>GitHub</summary>
   <a href="https://github.com/Mednoob"><img src="https://github-readme-stats.vercel.app/api?username=Mednoob&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats"/></a>
 </details>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.discordapp.com/attachments/564458704213114905/1248830168542220288/yukari.jpg?ex=6665173a&is=6663c5ba&hm=e7a68b0e9cffd068816fa170807b2814c47217714496ce7ce08b60f331f27786&');]{x0000}$}
